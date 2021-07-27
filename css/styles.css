@@ -10966,6 +10966,12 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
+.social-icons #social-icon1:hover {
+  background-color: #0e76a8;
+}
+.social-icons #social-icon2:hover {
+  background-color: #333;
+}
 
 .dev-icons {
   font-size: 3rem;
